@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SW-Miller", "SW-Miller\SW-Miller.dtproj", "{244EA444-9303-4AA6-93E0-67521A09939B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{244EA444-9303-4AA6-93E0-67521A09939B}.Development|Default.ActiveCfg = Development
+		{244EA444-9303-4AA6-93E0-67521A09939B}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {357D0045-83CB-4CB7-8F80-2FA119B43397}
+	EndGlobalSection
+EndGlobal
